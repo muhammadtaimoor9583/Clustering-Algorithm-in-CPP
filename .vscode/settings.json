@@ -1,0 +1,14 @@
+{
+<<<<<<< Updated upstream
+  "files.associations": {
+    "any": "cpp",
+    "optional": "cpp",
+    "utility": "cpp"
+  }
+}
+=======
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
+>>>>>>> Stashed changes
